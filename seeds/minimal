@@ -1,6 +1,9 @@
 Task-Section: minimal
 ubuntu-minimal
 linux-generic
+# Bootloaders (BIOS + UEFI)
 grub-pc
-casper
-ubiquity
+grub-efi-amd64-signed
+shim-signed
+# Live plumbing usually pulled by live seed, but safe to ensure
+network-manager
