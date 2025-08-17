@@ -1,4 +1,8 @@
 Task-Section: live
+casper
+ubiquity
 ubiquity-frontend-gtk
 ubiquity-slideshow-ubuntu
+ubiquity-casper
+user-setup
 os-prober
