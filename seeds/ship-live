@@ -1,8 +1,11 @@
 Task-Section: live
+# Live session
 casper
+user-setup
+# Installer
 ubiquity
 ubiquity-frontend-gtk
-ubiquity-slideshow-ubuntu
 ubiquity-casper
-user-setup
+ubiquity-slideshow-ubuntu
+# Dual-boot detection
 os-prober
