@@ -1,20 +1,14 @@
 Task-Section: supported
-# Office & productivity
-libreoffice
-thunderbird
-
-# Media
-vlc
-parole
-file-roller
-
 # System tools
-gparted
 gnome-disk-utility
+gparted
 simple-scan
 system-config-printer
 xfce4-screenshooter
-
-# Docs & images
+# Docs & media
 evince
-gimp
+parole
+vlc
+# (Optional, heavier)
+thunderbird
+libreoffice
