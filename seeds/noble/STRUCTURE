@@ -1,4 +1,4 @@
-minimal:
-desktop: minimal
-ship-live: desktop
-supported: desktop
+minimal :
+desktop : minimal
+ship-live : desktop
+supported : 
